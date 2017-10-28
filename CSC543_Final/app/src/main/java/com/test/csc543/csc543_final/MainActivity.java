@@ -1,7 +1,7 @@
 package com.test.csc543.csc543_final;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
